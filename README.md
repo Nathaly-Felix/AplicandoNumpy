@@ -1,4 +1,4 @@
-Utilizando o NumPy em Exercícios no GitHub
+# Utilizando o NumPy em Exercícios no GitHub
 Este README tem como objetivo auxiliar no uso do NumPy para a resolução de exercícios e compartilhamento de seu código no GitHub.
 
 1. Instalação do NumPy
@@ -96,5 +96,4 @@ Exemplos de código do NumPy: [URL inválido removido]
 Conclusão
 O NumPy é uma ferramenta poderosa para manipulação de dados em Python. Este README forneceu uma base para você começar a usar o NumPy em seus exercícios e compartilhá-los com a comunidade no GitHub.
 
-Exportar este código
-Você pode exportar e testar o código Python gerado no Google Colab ou Replit
+
